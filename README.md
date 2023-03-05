@@ -1,2 +1,2 @@
 # test-01
-This is repository.
+This is test repository for HKity's video.
